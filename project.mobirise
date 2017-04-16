@@ -273,7 +273,7 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#c1c1c1"
             }
           },
           "_tags": [
@@ -287,7 +287,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7c706b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -328,7 +328,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#d14841",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -362,7 +362,7 @@
             "postToLoad": "3",
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#d14841",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
@@ -389,7 +389,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#d14841",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -828,7 +828,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#d14841",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
