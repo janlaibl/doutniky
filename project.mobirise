@@ -147,15 +147,15 @@
             "paddingBottom": "6",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cigar-1473699-2000x682.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlay": false,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -182,7 +182,7 @@
           },
           "title": "AKtuální díl podcastu",
           "text": "Díl #001&nbsp;<br>„Jak to začalo a jak to bude pokračovat“&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Další díly</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form2-1\" data-toolbar=\"-mbrBtnMove\">Odebírat pořad</a>"
         },
         {
           "_styles": {
@@ -284,14 +284,14 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chess-1778589-2000x1328.jpg",
             "bgColor": "#7c706b",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showSubTitle": true
           },
@@ -343,7 +343,7 @@
           },
           "title": "Poslední tři díly podcastu",
           "text": "<p>Jestli hledáte všechny díly podcastu nebo se chcete dozvědět o novém díle, tak nám pošlete kliněte na \"Pravidelně odebírat\" a my vám je budeme posílat.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRAVIDELNĚ ODEBÍRAT</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRAVIDELNĚ ODEBÍRAT</a>"
         },
         {
           "alias": "social-feed",
@@ -386,13 +386,13 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chess-1778589-2000x1328.jpg",
             "bgColor": "#c0a375",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubTitle": true
@@ -411,7 +411,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ODESLAT</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ODESLAT</a>"
         },
         {
           "_inherit": "social-buttons1",
