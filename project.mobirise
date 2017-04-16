@@ -20,6 +20,10 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/chess-1778589-1920-128x85.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
     "versionFirst": "3.11.1",
     "uniqCompNum": 11,
     "versionPublish": "3.11.1"
@@ -180,7 +184,7 @@
               "size": 250
             }
           },
-          "title": "AKtuální díl podcastu",
+          "title": "Aktuální díl podcastu",
           "text": "Díl #001&nbsp;<br>„Jak to začalo a jak to bude pokračovat“&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form2-1\" data-toolbar=\"-mbrBtnMove\">Odebírat pořad</a>"
         },
@@ -212,6 +216,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#8c8c8c"
+            }
+          },
           "_anchor": "form1-3",
           "_params": {
             "labelsColor": "#232323",
@@ -257,15 +269,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ODESLAT</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#8c8c8c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ODESLAT</a>"
         },
         {
           "_styles": {
